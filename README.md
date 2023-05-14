@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AlexUifalean
-- 👀 I’m interested in Full Stack Software Development, Space, Property Investment
-- 🌱 I’m currently learning HTMLL/CSS, JavaScript, Front-End and Back-End
+- 👀 I’m interested in Spacecraft Avionics and Spacecraft Software Engineering 
+- 🌱 I’m currently learning C/C++
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me..
 - 
